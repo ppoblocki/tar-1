@@ -143,6 +143,6 @@ Legenda:
 1. Mikucka Julianna
 1. Novik Aleksandr
 1. Osowska Aleksandra
-1. Pobłocki Patryk
+1. [Pobłocki Patryk](https://github.com/ppoblocki/tar)
 1. Radomski Artur
 1. Świstun Szymon
