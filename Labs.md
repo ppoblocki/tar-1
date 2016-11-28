@@ -110,3 +110,5 @@ Legenda:
 
 
 ### Grupa 2
+
+[Patryk Pobłocki i Radosław Gołuński](https://github.com/ppoblocki/tar-egzamin)
