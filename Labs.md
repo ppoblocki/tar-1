@@ -113,3 +113,4 @@ Legenda:
 
 1. [Mateusz Gawin, Jakub Jabłoński, Daria Kotowicz i Magdalena Jędzierowska](https://github.com/matgawin/ruby-projekt2)
 1. [Cwilik Dawid](https://github.com/jodanpotasu/RubyZajecia2)
+1. [Patryk Pobłocki i Radosław Gołuński](https://github.com/ppoblocki/tar-egzamin)
